@@ -13,11 +13,21 @@
 - Cucumber
 - JavaScript
 
+<h2 id="testes"> 🤖 Casos de Teste Implementados</h2>
+
+### ✅ Testes Positivos
+- Inserção de dados e verificação de submissão bem-sucedida dos formulários obrigatórios e não obrigatórios e redirecionamento para outra página.
+
+### ❌ Testes Negativos
+- Limitação de caracteres no campo de List Price: Inserção de valores que excedem o limite esperado.
+
 <h2 id="capturas"> 📷 Capturas</h2>
 
 ![Screenshot 2024-09-08 12-58-52](https://github.com/user-attachments/assets/f4a64593-c477-441b-b25e-a6f54f1bdeb2)
 
-![Screenshot 2024-09-08 12-56-14](https://github.com/user-attachments/assets/764a2ee9-2d24-4ada-b09b-eefe345e6673)
+![Screenshot 2024-09-08 13-10-42](https://github.com/user-attachments/assets/c6a26708-1135-4db8-b07d-d4a4a1d53657)
+
+![Screenshot 2024-09-08 13-12-40](https://github.com/user-attachments/assets/6219c1e6-ef2a-43bd-8322-1f8d58220d61)
 
 <h2 id="aplicacao"> 🛠️ Executando a aplicação</h2>
 
