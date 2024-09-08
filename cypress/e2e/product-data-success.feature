@@ -2,7 +2,7 @@
 #language: pt
 
 Funcionalidade: Preenchimento do formulário das abas da página Tricents
-    Cenário: Validação de preenchimento do formulário da aba Enter Product Data com sucesso
+    Cenário: Validação de preenchimento do formulário da aba Enter Product Data e redirecionamento com sucesso
         Dado que o usuário está na página 'Tricents'
         E o usuário clica em Automobile
         E o usuário clica em Product Data
