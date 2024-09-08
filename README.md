@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Automação de Testes com Cypress - Academia Accenture 2024</h1>
 
-<p align="center"> <a href="#sobre">Sobre</a> • <a href="#tecnologias">Tecnologias</a> • <a href="#capturas">Capturas</a> • <a href="#aplicacao">Aplicação</a> • <a href="#links">Links</a> • <a href="#autora">Autora</a></p>
+<p align="center"> <a href="#sobre">Sobre</a> • <a href="#tecnologias">Tecnologias</a> • <a href="#testes">Casos de Testes</a> • <a href="#capturas">Capturas</a> • <a href="#aplicacao">Aplicação</a> • <a href="#links">Links</a> • <a href="#autora">Autora</a></p>
 
 <h2 id="sobre"> 📋 Sobre o projeto</h2>
 
