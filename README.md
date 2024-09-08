@@ -13,6 +13,12 @@
 - Cucumber
 - JavaScript
 
+<h2 id="capturas"> 📷 Capturas</h2>
+
+![Screenshot 2024-09-08 12-58-52](https://github.com/user-attachments/assets/f4a64593-c477-441b-b25e-a6f54f1bdeb2)
+
+![Screenshot 2024-09-08 12-56-14](https://github.com/user-attachments/assets/764a2ee9-2d24-4ada-b09b-eefe345e6673)
+
 <h2 id="aplicacao"> 🛠️ Executando a aplicação</h2>
 
 1. Clone o repositório:
